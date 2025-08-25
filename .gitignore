@@ -1,11 +1,6 @@
 # Hugo build output
 /public/
 
-# Theme
-
-/themes/*
-!/themes/.gitkeep
-
 # OS stuff
 .DS_Store
 Thumbs.db
