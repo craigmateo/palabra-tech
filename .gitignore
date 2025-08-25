@@ -3,7 +3,8 @@
 
 # Theme
 
-/themes/
+/themes/*
+!/themes/.gitkeep
 
 # OS stuff
 .DS_Store
