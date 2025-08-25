@@ -1,0 +1,122 @@
+:root {
+    --bs-link-underline-opacity: 1;
+    --bs-link-underline-color: #0b8181; /* teal */
+}
+
+.link-underline {
+    --bs-link-underline-opacity: 1;
+    --bs-link-underline-color: #0b8181; /* teal */
+}
+
+
+.bg-cgreen {
+    background-color: #0b8181;
+}
+
+.btn-success {
+  --bs-btn-hover-bg: #4a8a8a;
+}
+.text-cgreen {
+    color: #0b8181;
+}
+
+.intro-header h2:first-of-type {
+    color: #0b8181; /* text color */
+    /* background-color: #0b8181; */ /* optional if you want background instead */
+}
+
+.post-title:hover {
+    color: #0b8181; /* teal */
+}
+
+p a {
+    color: #0b8181;
+    text-decoration: underline;
+    text-underline-offset: .4rem;
+    text-decoration-color: rgba(0, 0, 0, .25);
+}
+
+figcaption h4 {
+    font-size: 0.9rem;       /* smaller text */
+    font-weight: normal;     /* remove bold */
+    font-style: italic;      /* italic like a caption */
+    color: #555;             /* muted color */
+    margin-top: 0.25rem;     /* spacing below image */
+    text-align: center;      /* center under image */
+}
+
+/* Remove the original theme sweep */
+.link-underline::after {
+    background-color: #0b8181 !important; /* teal */
+}
+
+/* Optional: adjust transform if needed */
+.link-underline::after {
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.3s ease;
+}
+
+.link-underline:hover::after {
+    transform: scaleX(1);
+    transform-origin: left;
+}
+
+
+.bauhaus-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* text left, shapes right */
+  margin-bottom: 2rem;
+}
+
+.bauhaus-header .title-text {
+  font-size: 2.5rem; /* adjust as needed */
+}
+
+.bauhaus-inline {
+  position: relative;
+  width: 60px;
+  height: 40px;
+  margin-left: 0.3em;
+  flex-shrink: 0; /* don’t shrink */
+}
+
+/* Triangle — yellow */
+.bauhaus-inline .triangle {
+  width: 0;
+  height: 0;
+  border-left: 12px solid transparent;
+  border-right: 12px solid transparent;
+  border-bottom: 24px solid #ffdd00;
+  position: absolute;
+  top: 8px;
+  left: 0;
+  z-index: 1;
+  opacity: 0.8; /* semi-transparent */
+}
+
+.bauhaus-inline .square {
+  width: 24px;
+  height: 24px;
+  background-color: #e63946;
+  position: absolute;
+  top: 8px;
+  left: 12px;
+  transform: rotate(15deg);
+  z-index: 2;
+  opacity: 0.6; /* semi-transparent */
+}
+
+.bauhaus-inline .circle {
+  width: 24px;
+  height: 24px;
+  background-color: #1d4ed8;
+  border-radius: 50%;
+  position: absolute;
+  top: 8px;
+  left: 24px;
+  z-index: 3;
+  opacity: 0.6; /* semi-transparent */
+}
+
