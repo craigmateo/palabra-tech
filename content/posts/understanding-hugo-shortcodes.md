@@ -2,7 +2,8 @@
 title: Understanding Hugo Shortcodes
 date: 2023-11-30
 tags: ["shortcodes"]
-image : "/img/posts/2025/10.jpg"
+image : "img/about/about-gallery/9.jpg"
+type: "posts"
 Description  : "Hugo shortcodes are powerful tools for adding custom HTML or other special content within Markdown files without complex code..."
 ---
 

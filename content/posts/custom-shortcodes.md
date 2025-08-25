@@ -2,7 +2,8 @@
 title: Lightbi Custom Shortcodes
 date: 2023-11-24
 tags: ["shortcodes"]
-image : "/img/posts/2025/1.jpg"
+image : "img/about/about-gallery/1.jpg"
+type: "posts"
 Description  : "You can create your own shortcodes for unique needs by adding an HTML file to the `layouts/shortcodes/` directory. Below are the custom shortcodes availble in this theme..."
 ---
 

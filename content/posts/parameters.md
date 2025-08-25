@@ -3,6 +3,7 @@ title: Parameters in Lightbi
 date: 2023-12-15
 tags: ["hugo","blog"]
 image : "img/about/about-gallery/1.jpg"
+type: "posts"
 Description  : "Below is a list of configurable parameters in the Lightbi theme, along with descriptions to help you customize your site effectively."
 type: "posts"
 draft: false
