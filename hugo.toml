@@ -38,7 +38,7 @@ previewCardImagePlacement = "bottom"
 hidePostImage = false
 tagSubtitle = "Here, you’ll discover the latest notes that explore new insights, and unique perspectives on the world."
 homepageLayout = "profile"
-profileShortbio = "I’m passionate about the web platform and love creating for the web. Here, you'll find a mix of long essays, quick notes, and personal reflections on what I’ve learned throughout my journey."
+profileShortbio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel turpis eu ligula tincidunt bibendum. Curabitur euismod, justo a feugiat gravida, urna ligula cursus sapien, a lacinia neque nunc sed lorem."
 profilePhoto = "img/profile/home-profile-pic.jpg"
 
 [pagination]
