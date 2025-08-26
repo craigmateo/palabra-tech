@@ -6,3 +6,6 @@ title = 'My New Hugo Site'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[params]
+  customCSS = ["css/custom.css"]

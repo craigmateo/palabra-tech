@@ -30,10 +30,18 @@
 }
 
 p a {
-    color: #0b8181;
+    color: #0b8181 !important;
     text-decoration: underline;
     text-underline-offset: .4rem;
     text-decoration-color: rgba(0, 0, 0, .25);
+}
+
+#dark-mode-toggle {
+  color: #0b8181 !important;
+}
+
+.search-item {
+  margin-left: 2rem;
 }
 
 figcaption h4 {
