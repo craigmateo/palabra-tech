@@ -38,7 +38,7 @@ previewCardImagePlacement = "bottom"
 hidePostImage = false
 tagSubtitle = "Here, you’ll discover the latest notes that explore new insights, and unique perspectives on the world."
 homepageLayout = "profile"
-profileShortbio = "Helping organizations bridge programming, data analysis, and documentation—turning complex workflows into clear, effective solutions that connect teams and customers."
+profileShortbio = "Helping organizations bridge programming, data analysis, and documentation—turning complexity into clear, effective solutions that connect teams and customers."
 profilePhoto = "img/profile/home-profile-pic.jpg"
 
 [pagination]
