@@ -129,6 +129,7 @@ One additional requirement is that the tooling is maintained as an ongoing proje
 
 Below are the ratings assigned to each tool.
 
+{{< raw >}}
 <style type="text/css">
 table  {border-collapse:collapse;border-spacing:0;}
 table td{border-color:black;border-style:solid;border-width:0px;
@@ -169,6 +170,7 @@ table td{border-color:black;border-style:solid;border-width:0px;
     <td>&starf;&star;&star;&star;</td>
   </tr>
 </table>
+{{< /raw >}}
 
 Based on the rating, Docusaurus and Nuxt Content were deemed the best suited. These tools are based on React and Vue, respectively, and offer an option based on the preferred framework of the team.
 

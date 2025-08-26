@@ -1,7 +1,7 @@
 ---
 type : "tags"
 layout : "about"
-title: "About me"
+title: "About"
 ---
 
 I’m a technical professional with over 15 years of experience in non-profit and software organizations.

@@ -4,10 +4,12 @@
 }
 
 .link-underline {
-    --bs-link-underline-opacity: 1;
-    --bs-link-underline-color: #0b8181; /* teal */
+    text-decoration-color: #0b8181 !important; /* teal */
 }
 
+.theme-by {
+  display: none;
+}
 
 .bg-cgreen {
     background-color: #0b8181;
