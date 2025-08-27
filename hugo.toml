@@ -1,6 +1,6 @@
 baseURL = "https://lightbi-beta-demo.netlify.app/"
 languageCode = "en"
-title = "Palabra."
+title = "Palabra"
 theme = "lightbi-hugo"
 summaryLength  = "30"
 metaDataFormat = "yaml"
